@@ -1,7 +1,7 @@
 import requests
 
 def get_search_params(key):
-    target_city = input("Target city: ")
+    target_city = 'atlanta' #input("Target city: ")
     params = {
         "address":target_city,
         "key":key
@@ -10,7 +10,7 @@ def get_search_params(key):
 
 
 def get_search_radius_params(zip_code, key):
-    search_radius = int(input("Search radius: "))
+    search_radius = '1' #int(input("Search radius: "))
     params = {
         "zip":zip_code,
         "distance":search_radius,
