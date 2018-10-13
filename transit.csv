@@ -1,0 +1,701 @@
+,item,loc,type,zipcode
+0,Tilly Mill Rd@MT Vernon Rd,"33.9542004,-84.30459019999999",transit_station,30330
+1,Tilly Mill Rd@Sandell Dr,"33.9542004,-84.30459019999999",transit_station,30330
+2,MT Vernon Rd@Jett Ferry Rd,"33.9542004,-84.30459019999999",transit_station,30330
+3,Tilly Mill Rd@Holland CT,"33.9542004,-84.30459019999999",transit_station,30330
+4,MT Vernon Rd@Meadow Lake Dr,"33.9542004,-84.30459019999999",transit_station,30330
+5,MT Vernon Rd@Stratham Dr,"33.9542004,-84.30459019999999",transit_station,30330
+6,Tilly Mill Rd@Dartford Dr,"33.9542004,-84.30459019999999",transit_station,30330
+7,Tilly Mill Rd@MT Vernon Rd,"33.9542004,-84.30459019999999",transit_station,30330
+8,MT Vernon Rd@Tilly Mill Rd,"33.9542004,-84.30459019999999",transit_station,30330
+9,Tilly Mill Rd@Sandell Dr,"33.9542004,-84.30459019999999",transit_station,30330
+10,Tilly Mill Rd@Sandell Dr,"33.9542004,-84.30459019999999",transit_station,30330
+11,MT Vernon Rd@Northchester CT,"33.9542004,-84.30459019999999",transit_station,30330
+12,MT Vernon Rd@Cedar Chase,"33.9542004,-84.30459019999999",transit_station,30330
+13,Jett Ferry Rd@MT Vernon Rd,"33.9542004,-84.30459019999999",transit_station,30330
+14,MT Vernon Rd @ Jett Ferry Rd,"33.9542004,-84.30459019999999",transit_station,30330
+15,Tilly Mill Rd@Holland CT,"33.9542004,-84.30459019999999",transit_station,30330
+16,Tilly Mill Rd@Holland CT,"33.9542004,-84.30459019999999",transit_station,30330
+17,Tilly Mill Rd@Lakesprings Way,"33.9542004,-84.30459019999999",transit_station,30330
+18,Jett Ferry Rd@Dunwoody Club Dr,"33.9542004,-84.30459019999999",transit_station,30330
+19,MT Vernon Rd@Meadow Lake Dr,"33.9542004,-84.30459019999999",transit_station,30330
+20,Lakewood Ave@Shadydale Ave,"33.7026678,-84.38574419999999",transit_station,30315
+21,Macon Dr @ Polar Rock Rd,"33.7026678,-84.38574419999999",transit_station,30315
+22,Swallow Cir SE @ Harper Rd SE,"33.7026678,-84.38574419999999",transit_station,30315
+23,Lakewood Way SW@Hilltop Dr SW,"33.7026678,-84.38574419999999",transit_station,30315
+24,Lakewood Ave SE @ Livermore St SE,"33.7026678,-84.38574419999999",transit_station,30315
+25,Jonesboro Rd SE@Lethea St SE,"33.7026678,-84.38574419999999",transit_station,30315
+26,Finch Dr@Swallow Cir,"33.7026678,-84.38574419999999",transit_station,30315
+27,Browns Mill Rd SE@Adelle St SE,"33.7026678,-84.38574419999999",transit_station,30315
+28,Lakewood Ave@Shadydale Ave,"33.7026678,-84.38574419999999",transit_station,30315
+29,Lakewood Ave@Shadydale Ave,"33.7026678,-84.38574419999999",transit_station,30315
+30,Lakewood Ave@Olive St,"33.7026678,-84.38574419999999",transit_station,30315
+31,Lakewood Ave SW@Terrace Way SE,"33.7026678,-84.38574419999999",transit_station,30315
+32,Lakewood Ave SW@Lakewood Terr SE,"33.7026678,-84.38574419999999",transit_station,30315
+33,Lakewood Ave@Terrace Way,"33.7026678,-84.38574419999999",transit_station,30315
+34,Lakewood Ave SE @ Conrad Ave SE,"33.7026678,-84.38574419999999",transit_station,30315
+35,Lakewood Ave SW@Conrad Ave SE,"33.7026678,-84.38574419999999",transit_station,30315
+36,Lakewood Ave SW@2081,"33.7026678,-84.38574419999999",transit_station,30315
+37,Lakewood Ave SW@2000,"33.7026678,-84.38574419999999",transit_station,30315
+38,Lakewood Ave SE@Owen St SE,"33.7026678,-84.38574419999999",transit_station,30315
+39,Lakewood Ave@Claire Dr,"33.7026678,-84.38574419999999",transit_station,30315
+40,Moreland Ave SE @ Confederate Ave,"33.723039,-84.3436881",transit_station,30316
+41,Moreland Ave SE@Eastland Rd SE,"33.723039,-84.3436881",transit_station,30316
+42,Moreland Ave SE@Lyndale Dr SE,"33.723039,-84.3436881",transit_station,30316
+43,Eastland Rd SE@Glynn Dr SE,"33.723039,-84.3436881",transit_station,30316
+44,Young St SE@Eastland Rd SE,"33.723039,-84.3436881",transit_station,30316
+45,Custer Ave SE@Moreland Ave SE,"33.723039,-84.3436881",transit_station,30316
+46,Moreland Ave SE @ Village Creek Lndg,"33.723039,-84.3436881",transit_station,30316
+47,Moreland Ave@Sky Haven Rd,"33.723039,-84.3436881",transit_station,30316
+48,Moreland Ave @ Vickers St,"33.723039,-84.3436881",transit_station,30316
+49,E Confederate Ave @ Moreland Ave SE,"33.723039,-84.3436881",transit_station,30316
+50,Custer Ave SE @ 1410,"33.723039,-84.3436881",transit_station,30316
+51,Moreland Ave SE @ Confederate Ave,"33.723039,-84.3436881",transit_station,30316
+52,Custer Ave SE @ the Manor,"33.723039,-84.3436881",transit_station,30316
+53,Custer Ave SE @ Eastland Rd SE,"33.723039,-84.3436881",transit_station,30316
+54,E Confederate Ave SE @ Moreland Ave SE,"33.723039,-84.3436881",transit_station,30316
+55,Moreland Ave SE@Beechview Dr SE,"33.723039,-84.3436881",transit_station,30316
+56,Custer Ave SE @ 1378,"33.723039,-84.3436881",transit_station,30316
+57,Custer Ave SE@1403,"33.723039,-84.3436881",transit_station,30316
+58,Eastland Rd SE @ McKenzie Trce SE,"33.723039,-84.3436881",transit_station,30316
+59,Eastland Rd SE @ Flatwood Dr SE,"33.723039,-84.3436881",transit_station,30316
+60,Lawton St SW@Donnelly Ave SW,"33.7321902,-84.42251859999999",transit_station,30310
+61,Lawton St SW@Richland Rd SW,"33.7321902,-84.42251859999999",transit_station,30310
+62,Lawton St SW@Mathews St SW,"33.7321902,-84.42251859999999",transit_station,30310
+63,Lawton St SW@Montreat Ave SW,"33.7321902,-84.42251859999999",transit_station,30310
+64,Lawton St SW@Oglethorpe Ave SW,"33.7321902,-84.42251859999999",transit_station,30310
+65,Lawton St SW@Merrill Ave SW,"33.7321902,-84.42251859999999",transit_station,30310
+66,Oglethorpe Ave SW@Peeples St SW,"33.7321902,-84.42251859999999",transit_station,30310
+67,Merrill Ave SW@Hall St SW,"33.7321902,-84.42251859999999",transit_station,30310
+68,Merrill Ave SW@Oakland Dr SW,"33.7321902,-84.42251859999999",transit_station,30310
+69,Ralph David Abernath Blvd SW@Ashby,"33.7321902,-84.42251859999999",transit_station,30310
+70,Oglethrope Ave SW @ Evans St SW,"33.7321902,-84.42251859999999",transit_station,30310
+71,Almont Dr SW@Indale Pl SW,"33.7321902,-84.42251859999999",transit_station,30310
+72,Joseph E Lowery Blvd @ 577,"33.7321902,-84.42251859999999",transit_station,30310
+73,West End Station,"33.7321902,-84.42251859999999",transit_station,30310
+74,Almont Dr SW@Edgefield Dr SW,"33.7321902,-84.42251859999999",transit_station,30310
+75,Ralph David Abernath Blvd@Lee St,"33.7321902,-84.42251859999999",transit_station,30310
+76,Lawton St SW@Donnelly Ave SW,"33.7321902,-84.42251859999999",transit_station,30310
+77,Joseph E Lowery Blvd @ Oak St SW,"33.7321902,-84.42251859999999",transit_station,30310
+78,Lawton St SW@Donnelly Ave SW,"33.7321902,-84.42251859999999",transit_station,30310
+79,Lawton St SW@Richland Rd SW,"33.7321902,-84.42251859999999",transit_station,30310
+80,Us Hwy 19 N + Curlew Rd,"28.048427,-82.7376544",transit_station,30387
+81,Us Hwy 19 N + 30147,"28.048427,-82.7376544",transit_station,30387
+82,Us Hwy 19 N + Curlew Rd,"28.048427,-82.7376544",transit_station,30387
+83,Us Hwy 19 N + 30950,"28.048427,-82.7376544",transit_station,30387
+84,Us Hwy 19 N + 29800,"28.048427,-82.7376544",transit_station,30387
+85,Us Hwy 19 N + CR 39,"28.048427,-82.7376544",transit_station,30387
+86,Us Hwy 19 N + 297th Ave N,"28.048427,-82.7376544",transit_station,30387
+87,Us Hwy 19 N + 31055,"28.048427,-82.7376544",transit_station,30387
+88,Us Hwy 19 N + 29492,"28.048427,-82.7376544",transit_station,30387
+89,Us Hwy 19 N + 29241,"28.048427,-82.7376544",transit_station,30387
+90,Us Hwy 19 N + 31646,"28.048427,-82.7376544",transit_station,30387
+91,Us Hwy 19 N + Congress Ave,"28.048427,-82.7376544",transit_station,30387
+92,Us Hwy 19 N + CR 95,"28.048427,-82.7376544",transit_station,30387
+93,Us Hwy 19 N + Riviera Rd,"28.048427,-82.7376544",transit_station,30387
+94,Us Hwy 19 N + 29228,"28.048427,-82.7376544",transit_station,30387
+95,Us Hwy 19 N + Bilgore Grove Blvd,"28.048427,-82.7376544",transit_station,30387
+96,Burnt Bank Dr & Curlew Rd,"28.048427,-82.7376544",transit_station,30387
+97,Us Hwy 19 N + 32170,"28.048427,-82.7376544",transit_station,30387
+98,Us Hwy 19 N & # 28420,"28.048427,-82.7376544",transit_station,30387
+99,Us Hwy 19 N + 31975,"28.048427,-82.7376544",transit_station,30387
+100,Marta Station,"33.7440941,-84.377861",transit_station,30312
+101,King Memorial Transit Station,"33.7440941,-84.377861",transit_station,30312
+102,MARTA,"33.7440941,-84.377861",transit_station,30312
+103,Hill St SE @ Woodward Ave SE,"33.7440941,-84.377861",transit_station,30312
+104,Hill St SE @ Memorial Dr SE,"33.7440941,-84.377861",transit_station,30312
+105,Memorial Dr@Grant St,"33.7440941,-84.377861",transit_station,30312
+106,Memorial Dr SE @ Connally St SE,"33.7440941,-84.377861",transit_station,30312
+107,Memorial Dr SE @ Martin St SE,"33.7440941,-84.377861",transit_station,30312
+108,Decatur St SE @ Bell St SE,"33.7440941,-84.377861",transit_station,30312
+109,Auburn Pointe Dr @ Veranda Cir,"33.7440941,-84.377861",transit_station,30312
+110,Memorial Dr SE @ Fraser St SE,"33.7440941,-84.377861",transit_station,30312
+111,Georgia Ave SE @ Grant St SE,"33.7440941,-84.377861",transit_station,30312
+112,Georgia Ave SE @ Grant Ter SE,"33.7440941,-84.377861",transit_station,30312
+113,Georgia Ave SE @ Ami St SE,"33.7440941,-84.377861",transit_station,30312
+114,Decatur St SE @ Jesse Hill Jr Dr SE,"33.7440941,-84.377861",transit_station,30312
+115,Memorial Dr SE@Boulevard SE,"33.7440941,-84.377861",transit_station,30312
+116,Georgia Ave SE@Martin St SE,"33.7440941,-84.377861",transit_station,30312
+117,Hill St SE @ Woodward Ave SE,"33.7440941,-84.377861",transit_station,30312
+118,Hill St SE @ Woodward Ave SE,"33.7440941,-84.377861",transit_station,30312
+119,Memorial Dr SE @ Hill St SE,"33.7440941,-84.377861",transit_station,30312
+120,Memorial Dr SE@2154,"33.7467783,-84.3147572",transit_station,30317
+121,Memorial Dr SE @ 1st Ave,"33.7467783,-84.3147572",transit_station,30317
+122,Memorial Dr SE @ Douglas St SE,"33.7467783,-84.3147572",transit_station,30317
+123,2nd Ave SE @ Memorial Dr SE,"33.7467783,-84.3147572",transit_station,30317
+124,2nd Ave SE @ Alston Dr SE,"33.7467783,-84.3147572",transit_station,30317
+125,2nd Ave @ Northern St,"33.7467783,-84.3147572",transit_station,30317
+126,Glenwood Ave @ Fayetteville Rd,"33.7467783,-84.3147572",transit_station,30317
+127,2nd Ave SE @ Glenwood Ave SE,"33.7467783,-84.3147572",transit_station,30317
+128,2nd Ave @ Swazey Dr,"33.7467783,-84.3147572",transit_station,30317
+129,E Lake Blvd @ Memorial Dr SE,"33.7467783,-84.3147572",transit_station,30317
+130,Memorial Dr SE @ E Lake Blvd SE,"33.7467783,-84.3147572",transit_station,30317
+131,East Lake Blvd @ Memorial Dr,"33.7467783,-84.3147572",transit_station,30317
+132,Memorial Dr @ E Lake Ter,"33.7467783,-84.3147572",transit_station,30317
+133,Memorial Dr SE @ 2154,"33.7467783,-84.3147572",transit_station,30317
+134,Memorial Dr SE@2154,"33.7467783,-84.3147572",transit_station,30317
+135,E Lake Blvd @ Lakeside Village Dr SE,"33.7467783,-84.3147572",transit_station,30317
+136,Memorial Dr SE @ 1st Ave,"33.7467783,-84.3147572",transit_station,30317
+137,Memorial Dr SE @ 1st Ave,"33.7467783,-84.3147572",transit_station,30317
+138,East Lake Blvd @ Forest Lakes Ave,"33.7467783,-84.3147572",transit_station,30317
+139,Memorial Dr SE @ Douglas St SE,"33.7467783,-84.3147572",transit_station,30317
+140,Marta Station,"33.7476898,-84.38804329999999",transit_station,30334
+141,Atlanta Braves Shuttle Drop-off,"33.7476898,-84.38804329999999",transit_station,30334
+142,MARTA,"33.7476898,-84.38804329999999",transit_station,30334
+143,Five Points,"33.7476898,-84.38804329999999",transit_station,30334
+144,Atlanta Bus Station,"33.7476898,-84.38804329999999",transit_station,30334
+145,Peachtree Center,"33.7476898,-84.38804329999999",transit_station,30334
+146,King Memorial Transit Station,"33.7476898,-84.38804329999999",transit_station,30334
+147,Memorial Dr SE @ Fraser St SE,"33.7476898,-84.38804329999999",transit_station,30334
+148,Washington St @ MLK Jr Dr,"33.7476898,-84.38804329999999",transit_station,30334
+149,Memorial Dr SE @ Martin St SE,"33.7476898,-84.38804329999999",transit_station,30334
+150,Decatur St SE @ Jesse Hill Jr Dr SE,"33.7476898,-84.38804329999999",transit_station,30334
+151,Decatur St SE @ Collins St SE,"33.7476898,-84.38804329999999",transit_station,30334
+152,Peachtree St @ Martin L King Jr Dr,"33.7476898,-84.38804329999999",transit_station,30334
+153,Memorial Dr SE @ Connally St SE,"33.7476898,-84.38804329999999",transit_station,30334
+154,Five Points Station,"33.7476898,-84.38804329999999",transit_station,30334
+155,Decatur St SE @ Bell St SE,"33.7476898,-84.38804329999999",transit_station,30334
+156,Hill St SE @ Memorial Dr SE,"33.7476898,-84.38804329999999",transit_station,30334
+157,Hill St SE @ Woodward Ave SE,"33.7476898,-84.38804329999999",transit_station,30334
+158,Auburn Ave @ Courtland St,"33.7476898,-84.38804329999999",transit_station,30334
+159,Capitol Sq SW @ Capitol Pl SW,"33.7476898,-84.38804329999999",transit_station,30334
+160,Marta Station,"33.75,-84.39999999999999",transit_station,30302
+161,Atlanta Braves Shuttle Drop-off,"33.75,-84.39999999999999",transit_station,30302
+162,Atlanta Bus Station,"33.75,-84.39999999999999",transit_station,30302
+163,Vine City Transit Station,"33.75,-84.39999999999999",transit_station,30302
+164,Five Points,"33.75,-84.39999999999999",transit_station,30302
+165,MARTA,"33.75,-84.39999999999999",transit_station,30302
+166,Peachtree Center,"33.75,-84.39999999999999",transit_station,30302
+167,Peters St SW@Haynes St SW,"33.75,-84.39999999999999",transit_station,30302
+168,Fair St SW@Northside Dr SW,"33.75,-84.39999999999999",transit_station,30302
+169,Whitehall St SW@Spring St SW,"33.75,-84.39999999999999",transit_station,30302
+170,Peters St SW @ Walker St SW,"33.75,-84.39999999999999",transit_station,30302
+171,Fair St SW@Walnut St SW,"33.75,-84.39999999999999",transit_station,30302
+172,Fair St SW@Vine St SW,"33.75,-84.39999999999999",transit_station,30302
+173,Peachtree St @ Martin L King Jr Dr,"33.75,-84.39999999999999",transit_station,30302
+174,Windsor St SW@Eugenia St SW,"33.75,-84.39999999999999",transit_station,30302
+175,Fair St SW@Elm St SW,"33.75,-84.39999999999999",transit_station,30302
+176,Five Points Station,"33.75,-84.39999999999999",transit_station,30302
+177,Windsor St SW@Fulton St SW,"33.75,-84.39999999999999",transit_station,30302
+178,McDaniel St SW@Fulton St SW,"33.75,-84.39999999999999",transit_station,30302
+179,Peters St SW@Haynes St SW,"33.75,-84.39999999999999",transit_station,30302
+180,Marta Station,"33.76,-84.39",transit_station,30343
+181,Atlanta Braves Shuttle Drop-off,"33.76,-84.39",transit_station,30343
+182,MegaBus Station,"33.76,-84.39",transit_station,30343
+183,Peachtree Center,"33.76,-84.39",transit_station,30343
+184,Five Points,"33.76,-84.39",transit_station,30343
+185,Civic Center Marta Station (Northbound),"33.76,-84.39",transit_station,30343
+186,Civic Center MARTA Station,"33.76,-84.39",transit_station,30343
+187,MARTA,"33.76,-84.39",transit_station,30343
+188,North Avenue Transit Station,"33.76,-84.39",transit_station,30343
+189,Vine City Transit Station,"33.76,-84.39",transit_station,30343
+190,Atlanta Bus Station,"33.76,-84.39",transit_station,30343
+191,John Portman Blvd @ Peachtree St,"33.76,-84.39",transit_station,30343
+192,Williams St @ Baker St,"33.76,-84.39",transit_station,30343
+193,Ivan Allen Jr Blvd NW @ Lovejoy St,"33.76,-84.39",transit_station,30343
+194,Five Points Station,"33.76,-84.39",transit_station,30343
+195,Auburn Ave @ Courtland St,"33.76,-84.39",transit_station,30343
+196,Centennial Olympic Park Dr @ Hunnicutt St,"33.76,-84.39",transit_station,30343
+197,Ivan Allen Jr Blvd NW @ Luckie St,"33.76,-84.39",transit_station,30343
+198,Piedmont Ave NE@Auburn Ave NE,"33.76,-84.39",transit_station,30343
+199,Peachtree St @ Martin L King Jr Dr,"33.76,-84.39",transit_station,30343
+200,Marta Station,"33.75,-84.39",transit_station,30353
+201,Atlanta Braves Shuttle Drop-off,"33.75,-84.39",transit_station,30353
+202,MARTA,"33.75,-84.39",transit_station,30353
+203,Five Points,"33.75,-84.39",transit_station,30353
+204,Atlanta Bus Station,"33.75,-84.39",transit_station,30353
+205,Peachtree Center,"33.75,-84.39",transit_station,30353
+206,King Memorial Transit Station,"33.75,-84.39",transit_station,30353
+207,Vine City Transit Station,"33.75,-84.39",transit_station,30353
+208,Washington St @ MLK Jr Dr,"33.75,-84.39",transit_station,30353
+209,Peachtree St @ Martin L King Jr Dr,"33.75,-84.39",transit_station,30353
+210,Decatur St SE @ Collins St SE,"33.75,-84.39",transit_station,30353
+211,Five Points Station,"33.75,-84.39",transit_station,30353
+212,Memorial Dr SE @ Fraser St SE,"33.75,-84.39",transit_station,30353
+213,Decatur St SE @ Jesse Hill Jr Dr SE,"33.75,-84.39",transit_station,30353
+214,Memorial Dr SE @ Martin St SE,"33.75,-84.39",transit_station,30353
+215,Auburn Ave @ Courtland St,"33.75,-84.39",transit_station,30353
+216,Memorial Dr SE @ Connally St SE,"33.75,-84.39",transit_station,30353
+217,Peters St SW@Haynes St SW,"33.75,-84.39",transit_station,30353
+218,Decatur St SE @ Bell St SE,"33.75,-84.39",transit_station,30353
+219,Piedmont Ave NE@Auburn Ave NE,"33.75,-84.39",transit_station,30353
+220,Marta Station,"33.75,-84.39",transit_station,30392
+221,Atlanta Braves Shuttle Drop-off,"33.75,-84.39",transit_station,30392
+222,MARTA,"33.75,-84.39",transit_station,30392
+223,Five Points,"33.75,-84.39",transit_station,30392
+224,Atlanta Bus Station,"33.75,-84.39",transit_station,30392
+225,Peachtree Center,"33.75,-84.39",transit_station,30392
+226,King Memorial Transit Station,"33.75,-84.39",transit_station,30392
+227,Vine City Transit Station,"33.75,-84.39",transit_station,30392
+228,Washington St @ MLK Jr Dr,"33.75,-84.39",transit_station,30392
+229,Peachtree St @ Martin L King Jr Dr,"33.75,-84.39",transit_station,30392
+230,Decatur St SE @ Collins St SE,"33.75,-84.39",transit_station,30392
+231,Five Points Station,"33.75,-84.39",transit_station,30392
+232,Memorial Dr SE @ Fraser St SE,"33.75,-84.39",transit_station,30392
+233,Decatur St SE @ Jesse Hill Jr Dr SE,"33.75,-84.39",transit_station,30392
+234,Memorial Dr SE @ Martin St SE,"33.75,-84.39",transit_station,30392
+235,Auburn Ave @ Courtland St,"33.75,-84.39",transit_station,30392
+236,Memorial Dr SE @ Connally St SE,"33.75,-84.39",transit_station,30392
+237,Peters St SW@Haynes St SW,"33.75,-84.39",transit_station,30392
+238,Decatur St SE @ Bell St SE,"33.75,-84.39",transit_station,30392
+239,Piedmont Ave NE@Auburn Ave NE,"33.75,-84.39",transit_station,30392
+240,Marta Station,"33.755711,-84.3883717",transit_station,30303
+241,Atlanta Braves Shuttle Drop-off,"33.755711,-84.3883717",transit_station,30303
+242,Peachtree Center,"33.755711,-84.3883717",transit_station,30303
+243,Five Points,"33.755711,-84.3883717",transit_station,30303
+244,MARTA,"33.755711,-84.3883717",transit_station,30303
+245,Atlanta Bus Station,"33.755711,-84.3883717",transit_station,30303
+246,MegaBus Station,"33.755711,-84.3883717",transit_station,30303
+247,Civic Center Marta Station (Northbound),"33.755711,-84.3883717",transit_station,30303
+248,Civic Center MARTA Station,"33.755711,-84.3883717",transit_station,30303
+249,King Memorial Transit Station,"33.755711,-84.3883717",transit_station,30303
+250,Vine City Transit Station,"33.755711,-84.3883717",transit_station,30303
+251,Five Points Station,"33.755711,-84.3883717",transit_station,30303
+252,Auburn Ave @ Courtland St,"33.755711,-84.3883717",transit_station,30303
+253,Decatur St SE @ Collins St SE,"33.755711,-84.3883717",transit_station,30303
+254,Peachtree St @ Martin L King Jr Dr,"33.755711,-84.3883717",transit_station,30303
+255,John Portman Blvd @ Peachtree St,"33.755711,-84.3883717",transit_station,30303
+256,Piedmont Ave NE@Auburn Ave NE,"33.755711,-84.3883717",transit_station,30303
+257,Washington St @ MLK Jr Dr,"33.755711,-84.3883717",transit_station,30303
+258,Decatur St SE @ Jesse Hill Jr Dr SE,"33.755711,-84.3883717",transit_station,30303
+259,Williams St @ Baker St,"33.755711,-84.3883717",transit_station,30303
+260,Ashby Transit Station,"33.7539971,-84.412014",transit_station,30314
+261,Vine City Transit Station,"33.7539971,-84.412014",transit_station,30314
+262,Atlanta Bus Station,"33.7539971,-84.412014",transit_station,30314
+263,Fair St SW @ James P Brawley Dr SW,"33.7539971,-84.412014",transit_station,30314
+264,Joseph E Lowery Blvd@Beckwith St SW,"33.7539971,-84.412014",transit_station,30314
+265,Fair St SW@Milton St SW,"33.7539971,-84.412014",transit_station,30314
+266,Fair St SW@Elm St SW,"33.7539971,-84.412014",transit_station,30314
+267,Joseph E Lowery Blvd@Parsons St SW,"33.7539971,-84.412014",transit_station,30314
+268,Fair St SW@Euhrlee St SW,"33.7539971,-84.412014",transit_station,30314
+269,Fair St SW@Vine St SW,"33.7539971,-84.412014",transit_station,30314
+270,Fair St SW@Walnut St SW,"33.7539971,-84.412014",transit_station,30314
+271,Joseph E Lowery Blvd @ Fair St SW,"33.7539971,-84.412014",transit_station,30314
+272,Fair St SW@Northside Dr SW,"33.7539971,-84.412014",transit_station,30314
+273,Fair St SW@Agnes Jones Pl SW,"33.7539971,-84.412014",transit_station,30314
+274,Joseph E Lowery Blvd@Westview Dr SW,"33.7539971,-84.412014",transit_station,30314
+275,Martin Luther King J Dr@Griffin St,"33.7539971,-84.412014",transit_station,30314
+276,Martin L King Jr Dr NW @ Griffin St NW,"33.7539971,-84.412014",transit_station,30314
+277,Martin L King Jr Dr NW @ James P Brawley Dr NW,"33.7539971,-84.412014",transit_station,30314
+278,Martin Luther King J@James P Brawley Dr SW,"33.7539971,-84.412014",transit_station,30314
+279,Martin Luther King J Dr SW@Sunset A,"33.7539971,-84.412014",transit_station,30314
+280,Presidential Pky@3835,"33.8921369,-84.26366770000001",transit_station,30362
+281,Presidential Pky@4001,"33.8921369,-84.26366770000001",transit_station,30362
+282,Presidential Dr@Presidential Pky,"33.8921369,-84.26366770000001",transit_station,30362
+283,Presidential Dr@3110,"33.8921369,-84.26366770000001",transit_station,30362
+284,Chamblee Tucker Rd@Buckeye Rd,"33.8921369,-84.26366770000001",transit_station,30362
+285,Presidential Dr@Presidential Pkwy,"33.8921369,-84.26366770000001",transit_station,30362
+286,Chamblee Tucker Rd@Embry Cir,"33.8921369,-84.26366770000001",transit_station,30362
+287,Chamblee Tucker Rd@Buckeye Rd,"33.8921369,-84.26366770000001",transit_station,30362
+288,Chamblee Tucker Rd & Buckeye Rd,"33.8921369,-84.26366770000001",transit_station,30362
+289,Chamblee Tucker Rd@Embry Cir,"33.8921369,-84.26366770000001",transit_station,30362
+290,Chamblee Tucker Rd @ N Embry Cir,"33.8921369,-84.26366770000001",transit_station,30362
+291,Chamblee Tucker Rd@Buckeye Rd,"33.8921369,-84.26366770000001",transit_station,30362
+292,Chamblee Tucker Rd@Embry Cir,"33.8921369,-84.26366770000001",transit_station,30362
+293,Chamblee Tucker Rd & North Hills (across),"33.8921369,-84.26366770000001",transit_station,30362
+294,Chamblee Tucker Rd@Alton Rd,"33.8921369,-84.26366770000001",transit_station,30362
+295,Chamblee Tucker Rd@Barkside CT,"33.8921369,-84.26366770000001",transit_station,30362
+296,Chamblee Tucker Rd@Stantondale Dr,"33.8921369,-84.26366770000001",transit_station,30362
+297,Chamblee Tucker Rd@Stantondale Dr,"33.8921369,-84.26366770000001",transit_station,30362
+298,Chamblee Tucker Rd@Stantondale Dr,"33.8921369,-84.26366770000001",transit_station,30362
+299,Chamblee Tucker Rd@Stonecrest CT,"33.8921369,-84.26366770000001",transit_station,30362
+300,Crown Rd SE @ 3900,"33.65,-84.39",transit_station,30388
+301,Porsche Ave @ Tradeport Blvd,"33.65,-84.39",transit_station,30388
+302,Old Dixiie Hwy @ 3961,"33.65,-84.39",transit_station,30388
+303,Old Dixe Hwy @ 4099,"33.65,-84.39",transit_station,30388
+304,Conley Rd @ Old Dixie Rd,"33.65,-84.39",transit_station,30388
+305,Porsche Ave @ Porsche Dr,"33.65,-84.39",transit_station,30388
+306,Crown Rd SE @ 3900,"33.65,-84.39",transit_station,30388
+307,Crown Rd SE @ 3900,"33.65,-84.39",transit_station,30388
+308,Porsche Ave @ Tradeport Blvd,"33.65,-84.39",transit_station,30388
+309,Old Dixiie Hwy @ 3961,"33.65,-84.39",transit_station,30388
+310,Porsche Ave @ Tradeport Blvd,"33.65,-84.39",transit_station,30388
+311,Old Dixiie Hwy @ 3961,"33.65,-84.39",transit_station,30388
+312,Zip Industrial Blvd@Southside Indu,"33.65,-84.39",transit_station,30388
+313,Southside Industrial Pkwy@Wilson Rd,"33.65,-84.39",transit_station,30388
+314,Zip Industrial Blvd SE@3720,"33.65,-84.39",transit_station,30388
+315,Old Dixe Hwy @ 4099,"33.65,-84.39",transit_station,30388
+316,Old Dixe Hwy @ 4099,"33.65,-84.39",transit_station,30388
+317,Zip Industrial Blvd@3675,"33.65,-84.39",transit_station,30388
+318,Empire Blvd SW@Browns Mill Rd SE,"33.65,-84.39",transit_station,30388
+319,Zip Industrial Blvd SE@3600,"33.65,-84.39",transit_station,30388
+320,Lenox Transit Station,"33.8524536,-84.3679295",transit_station,31119
+321,Buckhead Station,"33.8524536,-84.3679295",transit_station,31119
+322,Peachtree Rd NE@Stratford Rd NE,"33.8524536,-84.3679295",transit_station,31119
+323,Peachtree Rd @ Highland Dr,"33.8524536,-84.3679295",transit_station,31119
+324,Lenox Rd NE @ Kingsboro Rd NE,"33.8524536,-84.3679295",transit_station,31119
+325,Peachtree Rd NE @ Piedmont Rd NE,"33.8524536,-84.3679295",transit_station,31119
+326,Lenox Rd NE @ Wright Ave NE,"33.8524536,-84.3679295",transit_station,31119
+327,Peachtree Rd NE@Stratford Rd NE,"33.8524536,-84.3679295",transit_station,31119
+328,Peachtree Rd NE@Stratford Rd NE,"33.8524536,-84.3679295",transit_station,31119
+329,Buckhead Station,"33.8524536,-84.3679295",transit_station,31119
+330,Peachtree Rd NE @ 3414,"33.8524536,-84.3679295",transit_station,31119
+331,Peachtree Rd NE @ 3393,"33.8524536,-84.3679295",transit_station,31119
+332,Buckhead Station,"33.8524536,-84.3679295",transit_station,31119
+333,Peachtree Rd NE @ Lenox Rd,"33.8524536,-84.3679295",transit_station,31119
+334,Peachtree Rd NE@Lenox Rd NE,"33.8524536,-84.3679295",transit_station,31119
+335,Peachtree Rd NE@Oak Valley Rd NE,"33.8524536,-84.3679295",transit_station,31119
+336,Piedmont Rd NE @ Carson Ln NE,"33.8524536,-84.3679295",transit_station,31119
+337,Peachtree Rd@Wieuca Rd,"33.8524536,-84.3679295",transit_station,31119
+338,Peachtree Rd @ Highland Dr,"33.8524536,-84.3679295",transit_station,31119
+339,Piedmont Rd NE @ Tower Place Dr NE,"33.8524536,-84.3679295",transit_station,31119
+340,Coast-Aliso,"33.5097626,-117.7523604",transit_station,31131
+341,Coast-Wesley,"33.5097626,-117.7523604",transit_station,31131
+342,Coast-Aliso,"33.5097626,-117.7523604",transit_station,31131
+343,Coast-Aliso,"33.5097626,-117.7523604",transit_station,31131
+344,Coast-Wesley,"33.5097626,-117.7523604",transit_station,31131
+345,Albertson's Market / PCH,"33.5097626,-117.7523604",transit_station,31131
+346,Albertson's Market / Westley,"33.5097626,-117.7523604",transit_station,31131
+347,Coast-Wesley,"33.5097626,-117.7523604",transit_station,31131
+348,Coast-Bluff,"33.5097626,-117.7523604",transit_station,31131
+349,Coast-Montage Resort,"33.5097626,-117.7523604",transit_station,31131
+350,Coast-Catalina,"33.5097626,-117.7523604",transit_station,31131
+351,Coast-Table Rock,"33.5097626,-117.7523604",transit_station,31131
+352,Coast-Ent 30781 Blue,"33.5097626,-117.7523604",transit_station,31131
+353,Coast-3rd,"33.5097626,-117.7523604",transit_station,31131
+354,Coast-Seacliff,"33.5097626,-117.7523604",transit_station,31131
+355,Coast-7th,"33.5097626,-117.7523604",transit_station,31131
+356,Coast-Circle,"33.5097626,-117.7523604",transit_station,31131
+357,Hospital / 7th,"33.5097626,-117.7523604",transit_station,31131
+358,Hospital / 7th,"33.5097626,-117.7523604",transit_station,31131
+359,Coast-Nyes,"33.5097626,-117.7523604",transit_station,31131
+360,Cobb Pkwy @ Paces Mill Rd,"33.87,-84.4599999",transit_station,31139
+361,Cobb Pkwy @ River Pkwy,"33.87,-84.4599999",transit_station,31139
+362,Cumberland Blvd,"33.87,-84.4599999",transit_station,31139
+363,Riverwood Pkwy + Cobb Pkwy,"33.87,-84.4599999",transit_station,31139
+364,Cobb Pkwy SE@Parkway Pointe SE,"33.87,-84.4599999",transit_station,31139
+365,Cumberland Blvd + Akers Mill Rd,"33.87,-84.4599999",transit_station,31139
+366,Riverwood Pkwy + Riverwood 100 Building,"33.87,-84.4599999",transit_station,31139
+367,Cobb Pkwy @ Riverwood Pkwy,"33.87,-84.4599999",transit_station,31139
+368,Akers Mill@Cumberland Blvd,"33.87,-84.4599999",transit_station,31139
+369,Akers Mill Rd + the Crossings at Akers Mill,"33.87,-84.4599999",transit_station,31139
+370,Akers Mill Rd @ Cumberland Blvd,"33.87,-84.4599999",transit_station,31139
+371,Cobb Pkwy @ 2980,"33.87,-84.4599999",transit_station,31139
+372,Northside Pkwy @ River Green Dr,"33.87,-84.4599999",transit_station,31139
+373,Northside Pkwy@River Green Dr,"33.87,-84.4599999",transit_station,31139
+374,Cumberland Transfer Center,"33.87,-84.4599999",transit_station,31139
+375,Northside Pkwy & Rivergreen Dr (IBM),"33.87,-84.4599999",transit_station,31139
+376,Cumberland Transfer Center,"33.87,-84.4599999",transit_station,31139
+377,Cobb Galleria Pkwy + Riverwood Pkwy,"33.87,-84.4599999",transit_station,31139
+378,Cobb Galleria Pkwy + Riverwood Pkwy,"33.87,-84.4599999",transit_station,31139
+379,Cumberland Transfer Center,"33.87,-84.4599999",transit_station,31139
+380,Marta Station,"33.75,-84.39",transit_station,31195
+381,Atlanta Braves Shuttle Drop-off,"33.75,-84.39",transit_station,31195
+382,MARTA,"33.75,-84.39",transit_station,31195
+383,Five Points,"33.75,-84.39",transit_station,31195
+384,Atlanta Bus Station,"33.75,-84.39",transit_station,31195
+385,Peachtree Center,"33.75,-84.39",transit_station,31195
+386,King Memorial Transit Station,"33.75,-84.39",transit_station,31195
+387,Vine City Transit Station,"33.75,-84.39",transit_station,31195
+388,Washington St @ MLK Jr Dr,"33.75,-84.39",transit_station,31195
+389,Peachtree St @ Martin L King Jr Dr,"33.75,-84.39",transit_station,31195
+390,Decatur St SE @ Collins St SE,"33.75,-84.39",transit_station,31195
+391,Five Points Station,"33.75,-84.39",transit_station,31195
+392,Memorial Dr SE @ Fraser St SE,"33.75,-84.39",transit_station,31195
+393,Decatur St SE @ Jesse Hill Jr Dr SE,"33.75,-84.39",transit_station,31195
+394,Memorial Dr SE @ Martin St SE,"33.75,-84.39",transit_station,31195
+395,Auburn Ave @ Courtland St,"33.75,-84.39",transit_station,31195
+396,Memorial Dr SE @ Connally St SE,"33.75,-84.39",transit_station,31195
+397,Peters St SW@Haynes St SW,"33.75,-84.39",transit_station,31195
+398,Decatur St SE @ Bell St SE,"33.75,-84.39",transit_station,31195
+399,Piedmont Ave NE@Auburn Ave NE,"33.75,-84.39",transit_station,31195
+400,Chamblee Station,"33.8817597,-84.2904682",transit_station,39901
+401,Buford Hwy NE@Beverly Hills Dr,"33.8817597,-84.2904682",transit_station,39901
+402,Shallowford Rd@Beverly Hills Dr,"33.8817597,-84.2904682",transit_station,39901
+403,Chamblee Tucker Rd @ Cumberland Dr,"33.8817597,-84.2904682",transit_station,39901
+404,Chamblee Tucker Rd@Hospital Ave,"33.8817597,-84.2904682",transit_station,39901
+405,Buford Hwy NE@Shallowford Ter,"33.8817597,-84.2904682",transit_station,39901
+406,Buford Hwy@Woodside Way,"33.8817597,-84.2904682",transit_station,39901
+407,Chamblee Dunwoody Rd@Clairview Dr,"33.8817597,-84.2904682",transit_station,39901
+408,Buford Hwy NE@Beverly Hills Dr,"33.8817597,-84.2904682",transit_station,39901
+409,Buford Hwy NE @ Beverly Hills Dr,"33.8817597,-84.2904682",transit_station,39901
+410,Buford Hwy & Huntington Terraces Apts Ib,"33.8817597,-84.2904682",transit_station,39901
+411,Buford & Chamblee Tucker,"33.8817597,-84.2904682",transit_station,39901
+412,Shallowford Rd NE @ Beverly Hills Dr,"33.8817597,-84.2904682",transit_station,39901
+413,Shallowford Rd NE @ Beverly Hills Dr,"33.8817597,-84.2904682",transit_station,39901
+414,Shallowford Rd NE @ Ortega Way,"33.8817597,-84.2904682",transit_station,39901
+415,Shallowford Rd NE @ Ortega Way,"33.8817597,-84.2904682",transit_station,39901
+416,Shallowford Rd NE @ Shallowford Pl,"33.8817597,-84.2904682",transit_station,39901
+417,Buford Hwy NE & CDC Federal Credit Union Ob,"33.8817597,-84.2904682",transit_station,39901
+418,Chamblee Tucker Rd @ Cumberland Dr,"33.8817597,-84.2904682",transit_station,39901
+419,Chamblee Tucker Rd @ Carroll Cir,"33.8817597,-84.2904682",transit_station,39901
+420,MegaBus Station,"33.7657549,-84.39493999999999",transit_station,30313
+421,Civic Center Marta Station (Northbound),"33.7657549,-84.39493999999999",transit_station,30313
+422,Civic Center MARTA Station,"33.7657549,-84.39493999999999",transit_station,30313
+423,Atlanta Braves Shuttle Drop-off,"33.7657549,-84.39493999999999",transit_station,30313
+424,North Avenue Transit Station,"33.7657549,-84.39493999999999",transit_station,30313
+425,Peachtree Center,"33.7657549,-84.39493999999999",transit_station,30313
+426,Vine City Transit Station,"33.7657549,-84.39493999999999",transit_station,30313
+427,Five Points,"33.7657549,-84.39493999999999",transit_station,30313
+428,Ivan Allen Jr Blvd NW @ Luckie St,"33.7657549,-84.39493999999999",transit_station,30313
+429,Ivan Allen Jr Blvd NW @ Lovejoy St,"33.7657549,-84.39493999999999",transit_station,30313
+430,Marietta St @ Parker St,"33.7657549,-84.39493999999999",transit_station,30313
+431,Centennial Olympic Park Dr @ Hunnicutt St,"33.7657549,-84.39493999999999",transit_station,30313
+432,Luckie St NW @ Merritts Ave,"33.7657549,-84.39493999999999",transit_station,30313
+433,Williams St @ Baker St,"33.7657549,-84.39493999999999",transit_station,30313
+434,Luckie St @ North Ave,"33.7657549,-84.39493999999999",transit_station,30313
+435,North Ave NW@Fowler St,"33.7657549,-84.39493999999999",transit_station,30313
+436,John Portman Blvd @ Peachtree St,"33.7657549,-84.39493999999999",transit_station,30313
+437,Marietta St NW@Wallace St NW,"33.7657549,-84.39493999999999",transit_station,30313
+438,Joseph E Boone Blvd @ Maple St NW,"33.7657549,-84.39493999999999",transit_station,30313
+439,Peachtree St NE @ Linden Ave NE,"33.7657549,-84.39493999999999",transit_station,30313
+440,MegaBus Station,"33.7730242,-84.3864011",transit_station,30375
+441,North Avenue Transit Station,"33.7730242,-84.3864011",transit_station,30375
+442,Civic Center MARTA Station,"33.7730242,-84.3864011",transit_station,30375
+443,Civic Center Marta Station (Northbound),"33.7730242,-84.3864011",transit_station,30375
+444,Midtown Transit Station,"33.7730242,-84.3864011",transit_station,30375
+445,W Peachtree St @ Ponce de Leon Ave,"33.7730242,-84.3864011",transit_station,30375
+446,Peachtree St NE @ Ponce De Leon Ave,"33.7730242,-84.3864011",transit_station,30375
+447,Ponce De Leon Ave NE @ Juniper St NE,"33.7730242,-84.3864011",transit_station,30375
+448,Peachtree St NE @ Linden Ave NE,"33.7730242,-84.3864011",transit_station,30375
+449,North Ave @ Piedmont Ave,"33.7730242,-84.3864011",transit_station,30375
+450,North Ave @ Penn Ave,"33.7730242,-84.3864011",transit_station,30375
+451,North Ave NW@Fowler St,"33.7730242,-84.3864011",transit_station,30375
+452,Peachtree St NE @ 8th St NE,"33.7730242,-84.3864011",transit_station,30375
+453,Ponce De Leon Ave NE @ Argonne Ave NE,"33.7730242,-84.3864011",transit_station,30375
+454,Centennial Olympic Park Dr @ Hunnicutt St,"33.7730242,-84.3864011",transit_station,30375
+455,Peachtree St @ Peachtree Pl,"33.7730242,-84.3864011",transit_station,30375
+456,Luckie St @ North Ave,"33.7730242,-84.3864011",transit_station,30375
+457,Midtown Station,"33.7730242,-84.3864011",transit_station,30375
+458,Ponce De Leon Ave NE @ Durant Pl NE,"33.7730242,-84.3864011",transit_station,30375
+459,Luckie St NW @ Merritts Ave,"33.7730242,-84.3864011",transit_station,30375
+460,North Avenue Transit Station,"33.7717008,-84.3726049",transit_station,30308
+461,Civic Center MARTA Station,"33.7717008,-84.3726049",transit_station,30308
+462,Civic Center Marta Station (Northbound),"33.7717008,-84.3726049",transit_station,30308
+463,MegaBus Station,"33.7717008,-84.3726049",transit_station,30308
+464,North Ave NE @ Parkway Dr NE,"33.7717008,-84.3726049",transit_station,30308
+465,Boulevard NE@North Ave NE,"33.7717008,-84.3726049",transit_station,30308
+466,Boulevard NE @ Ponce De Leon Ave NE,"33.7717008,-84.3726049",transit_station,30308
+467,Monroe Dr@Ponce De Leon Ave,"33.7717008,-84.3726049",transit_station,30308
+468,Ponce De Leon Ave NE @ Durant Pl NE,"33.7717008,-84.3726049",transit_station,30308
+469,Boulevard NE @ Morgan St NE,"33.7717008,-84.3726049",transit_station,30308
+470,Ponce De Leon Ave NE @ Argonne Ave NE,"33.7717008,-84.3726049",transit_station,30308
+471,Monroe Dr NE@Saint Charles Ave NE,"33.7717008,-84.3726049",transit_station,30308
+472,Boulevard NE@Rankin St NE,"33.7717008,-84.3726049",transit_station,30308
+473,Monroe Dr NE@Greenwood Ave NE,"33.7717008,-84.3726049",transit_station,30308
+474,Boulevard NE@Angier Ave NE,"33.7717008,-84.3726049",transit_station,30308
+475,North Ave @ Penn Ave,"33.7717008,-84.3726049",transit_station,30308
+476,Monroe Dr NE@Seal Pl NE,"33.7717008,-84.3726049",transit_station,30308
+477,Boulevard NE@Wabash Ave NE,"33.7717008,-84.3726049",transit_station,30308
+478,North Ave @ Piedmont Ave,"33.7717008,-84.3726049",transit_station,30308
+479,Ralph McGill Blvd NE@Parkway Dr NE,"33.7717008,-84.3726049",transit_station,30308
+480,Ponce De Leon Ave @ S Ponce De Leon Ave,"33.7724417,-84.3279093",transit_station,30307
+481,Ponce De Leon Ave @ Ponce De Leon MNR,"33.7724417,-84.3279093",transit_station,30307
+482,Ponce De Leon Ave @ S Ponce De Leon Ave,"33.7724417,-84.3279093",transit_station,30307
+483,Ponce De Leon Ave @ S Ponce De Leon Ave,"33.7724417,-84.3279093",transit_station,30307
+484,Ponce De Leon Ave @ Clifton Rd,"33.7724417,-84.3279093",transit_station,30307
+485,Ponce De Leon Ave @ N Ponce De Leon Ave,"33.7724417,-84.3279093",transit_station,30307
+486,Ponce De Leon Ave NE @ Lakeshore Dr NE,"33.7724417,-84.3279093",transit_station,30307
+487,Ponce De Leon Ave NE @ Clifton Rd,"33.7724417,-84.3279093",transit_station,30307
+488,Ponce De Leon Ave @ Ponce De Leon MNR,"33.7724417,-84.3279093",transit_station,30307
+489,Ponce De Leon Ave @ Ponce De Leon MNR,"33.7724417,-84.3279093",transit_station,30307
+490,Ponce De Leon Ave @ Lullwater Rd NE,"33.7724417,-84.3279093",transit_station,30307
+491,E Lake Rd @ 2086,"33.7724417,-84.3279093",transit_station,30307
+492,E Lake Rd @ 2085,"33.7724417,-84.3279093",transit_station,30307
+493,Ponce De Leon Ave NE @ Fairview Rd NE,"33.7724417,-84.3279093",transit_station,30307
+494,E Lake Rd @ Ridgecrest Rd,"33.7724417,-84.3279093",transit_station,30307
+495,E Lake Rd @ Ridgecrest Rd,"33.7724417,-84.3279093",transit_station,30307
+496,E Lake Rd @ Ridgecrest Rd,"33.7724417,-84.3279093",transit_station,30307
+497,Ponce De Leon Ave @ Oakdale Rd NE,"33.7724417,-84.3279093",transit_station,30307
+498,Ponce De Leon Ave NE @ Oakdale Rd NE,"33.7724417,-84.3279093",transit_station,30307
+499,E-145 Pocket Track,"33.7724417,-84.3279093",transit_station,30307
+500,MegaBus Station,"33.7700012,-84.3811458",transit_station,30332
+501,North Avenue Transit Station,"33.7700012,-84.3811458",transit_station,30332
+502,Civic Center MARTA Station,"33.7700012,-84.3811458",transit_station,30332
+503,Civic Center Marta Station (Northbound),"33.7700012,-84.3811458",transit_station,30332
+504,Midtown Transit Station,"33.7700012,-84.3811458",transit_station,30332
+505,Peachtree Center,"33.7700012,-84.3811458",transit_station,30332
+506,North Ave @ Piedmont Ave,"33.7700012,-84.3811458",transit_station,30332
+507,North Ave @ Penn Ave,"33.7700012,-84.3811458",transit_station,30332
+508,Ponce De Leon Ave NE @ Juniper St NE,"33.7700012,-84.3811458",transit_station,30332
+509,Peachtree St NE @ Linden Ave NE,"33.7700012,-84.3811458",transit_station,30332
+510,Ponce De Leon Ave NE @ Argonne Ave NE,"33.7700012,-84.3811458",transit_station,30332
+511,Peachtree St NE @ Ponce De Leon Ave,"33.7700012,-84.3811458",transit_station,30332
+512,Ponce De Leon Ave NE @ Durant Pl NE,"33.7700012,-84.3811458",transit_station,30332
+513,W Peachtree St @ Ponce de Leon Ave,"33.7700012,-84.3811458",transit_station,30332
+514,North Ave NE @ Parkway Dr NE,"33.7700012,-84.3811458",transit_station,30332
+515,Ralph McGill Blvd NE@Felton Dr NE,"33.7700012,-84.3811458",transit_station,30332
+516,Boulevard NE@North Ave NE,"33.7700012,-84.3811458",transit_station,30332
+517,Boulevard NE @ Morgan St NE,"33.7700012,-84.3811458",transit_station,30332
+518,Boulevard NE@Rankin St NE,"33.7700012,-84.3811458",transit_station,30332
+519,Boulevard NE@Angier Ave NE,"33.7700012,-84.3811458",transit_station,30332
+520,Arts Center Transit Station,"33.7877341,-84.38081729999999",transit_station,30361
+521,Midtown Transit Station,"33.7877341,-84.38081729999999",transit_station,30361
+522,14th St NE @ 14th Pl,"33.7877341,-84.38081729999999",transit_station,30361
+523,Peachtree St@14th St,"33.7877341,-84.38081729999999",transit_station,30361
+524,Piedmont Ave NE@15th St NE,"33.7877341,-84.38081729999999",transit_station,30361
+525,15th St NE @ Peachtree St NE,"33.7877341,-84.38081729999999",transit_station,30361
+526,Peachtree St@12th St,"33.7877341,-84.38081729999999",transit_station,30361
+527,Peachtree St NE @ 16th St NE,"33.7877341,-84.38081729999999",transit_station,30361
+528,MARTA Arts Center Station,"33.7877341,-84.38081729999999",transit_station,30361
+529,bus stop,"33.7877341,-84.38081729999999",transit_station,30361
+530,Juniper St NE@10th St NE,"33.7877341,-84.38081729999999",transit_station,30361
+531,Peachtree St NE@17th St NE,"33.7877341,-84.38081729999999",transit_station,30361
+532,Peachtree St @ Peachtree Pl,"33.7877341,-84.38081729999999",transit_station,30361
+533,Midtown Station,"33.7877341,-84.38081729999999",transit_station,30361
+534,Piedmont Ave NE@Westminster Dr NE,"33.7877341,-84.38081729999999",transit_station,30361
+535,Peachtree St NE @ 8th St NE,"33.7877341,-84.38081729999999",transit_station,30361
+536,10th St @ Charles Allen Dr,"33.7877341,-84.38081729999999",transit_station,30361
+537,14th St@Juniper St,"33.7877341,-84.38081729999999",transit_station,30361
+538,14th St NE @ 14th Pl,"33.7877341,-84.38081729999999",transit_station,30361
+539,14th St NE @ 14th Pl,"33.7877341,-84.38081729999999",transit_station,30361
+540,N Highland Ave NE @ Los Angeles Ave,"33.7845409,-84.3489467",transit_station,30306
+541,N Highland Ave NE @ Glen Arden Way,"33.7845409,-84.3489467",transit_station,30306
+542,Virginia Ave NE@Todd Rd NE,"33.7845409,-84.3489467",transit_station,30306
+543,N Highland Ave NE@ Rosedale Dr,"33.7845409,-84.3489467",transit_station,30306
+544,N Highland Ave NE @ Amsterdam Ave,"33.7845409,-84.3489467",transit_station,30306
+545,Briarcliff Rd NE@Oak Park Dr NE,"33.7845409,-84.3489467",transit_station,30306
+546,Briarcliff Rd NE@869,"33.7845409,-84.3489467",transit_station,30306
+547,Virginia Ave NE @ Maryland Ave NE,"33.7845409,-84.3489467",transit_station,30306
+548,N Highland Ave NE @ Courtenay Dr NE,"33.7845409,-84.3489467",transit_station,30306
+549,Briarcliff Rd NE@Briarcliff Pl NE,"33.7845409,-84.3489467",transit_station,30306
+550,N Highland Ave NE @ Briarcliff Pl,"33.7845409,-84.3489467",transit_station,30306
+551,Virginia Ave@Barnett St,"33.7845409,-84.3489467",transit_station,30306
+552,Briarcliff Rd @Saint Charles Pl NE,"33.7845409,-84.3489467",transit_station,30306
+553,N Highland Ave NE @ Los Angeles Ave,"33.7845409,-84.3489467",transit_station,30306
+554,N Highland Ave NE @ Los Angeles Ave,"33.7845409,-84.3489467",transit_station,30306
+555,N Highland Ave NE @ Glen Arden Way,"33.7845409,-84.3489467",transit_station,30306
+556,N Highland Ave NE @ Virginia Ave NE,"33.7845409,-84.3489467",transit_station,30306
+557,N Highland Ave NE @ Glen Arden Way,"33.7845409,-84.3489467",transit_station,30306
+558,N Highland Ave @ Virginia Ave,"33.7845409,-84.3489467",transit_station,30306
+559,Briarcliff Rd@Stillwood Dr,"33.7845409,-84.3489467",transit_station,30306
+560,Howell Mill Rd@Moores Mill Rd,"33.8373615,-84.4201604",transit_station,30325
+561,Howell Mill Rd NW@Moores Mill Rd NW,"33.8373615,-84.4201604",transit_station,30325
+562,Howell Mill Rd NW@Saint Annes Ln NW,"33.8373615,-84.4201604",transit_station,30325
+563,Howell Mill Rd NW@Weston Pl NW,"33.8373615,-84.4201604",transit_station,30325
+564,Northside Pky@Rilman Rd,"33.8373615,-84.4201604",transit_station,30325
+565,Howell Mill Rd NW@2929,"33.8373615,-84.4201604",transit_station,30325
+566,Northside Pkwy @ Moores Mill Rd,"33.8373615,-84.4201604",transit_station,30325
+567,Howell Mill Rd NW@Westminster Cir N,"33.8373615,-84.4201604",transit_station,30325
+568,Howell Mill Rd NW @ 3280,"33.8373615,-84.4201604",transit_station,30325
+569,Northside Pkwy @ 3160,"33.8373615,-84.4201604",transit_station,30325
+570,Howell Mill Rd@Nawench Dr,"33.8373615,-84.4201604",transit_station,30325
+571,Howell Mill Rd NW@Nawench Dr NW,"33.8373615,-84.4201604",transit_station,30325
+572,Howell Mill Rd NW@Downwood Cir NW,"33.8373615,-84.4201604",transit_station,30325
+573,Howell Mill Rd @ Downwood Cir NW,"33.8373615,-84.4201604",transit_station,30325
+574,Howell Mill Rd NW@Wesley Rd NW,"33.8373615,-84.4201604",transit_station,30325
+575,Howell Mill Rd @ 3193,"33.8373615,-84.4201604",transit_station,30325
+576,Northside Pkwy @ 3295,"33.8373615,-84.4201604",transit_station,30325
+577,Howell Mill Rd NW@2760,"33.8373615,-84.4201604",transit_station,30325
+578,Howell Mill Rd NW @ 3280,"33.8373615,-84.4201604",transit_station,30325
+579,Howell Mill Rd NW @ 3280,"33.8373615,-84.4201604",transit_station,30325
+580,Midtown Transit Station,"33.7841361,-84.3877426",transit_station,30357
+581,Arts Center Transit Station,"33.7841361,-84.3877426",transit_station,30357
+582,North Avenue Transit Station,"33.7841361,-84.3877426",transit_station,30357
+583,Midtown Station,"33.7841361,-84.3877426",transit_station,30357
+584,10th St & Williams St,"33.7841361,-84.3877426",transit_station,30357
+585,Peachtree St@12th St,"33.7841361,-84.3877426",transit_station,30357
+586,Peachtree St@14th St,"33.7841361,-84.3877426",transit_station,30357
+587,Peachtree St @ Peachtree Pl,"33.7841361,-84.3877426",transit_station,30357
+588,Juniper St NE@10th St NE,"33.7841361,-84.3877426",transit_station,30357
+589,MARTA Arts Center Station,"33.7841361,-84.3877426",transit_station,30357
+590,15th St NE @ Peachtree St NE,"33.7841361,-84.3877426",transit_station,30357
+591,Peachtree St NE @ 8th St NE,"33.7841361,-84.3877426",transit_station,30357
+592,Peachtree St NE @ 16th St NE,"33.7841361,-84.3877426",transit_station,30357
+593,14th St NE @ 14th Pl,"33.7841361,-84.3877426",transit_station,30357
+594,bus stop,"33.7841361,-84.3877426",transit_station,30357
+595,Peachtree St NE@17th St NE,"33.7841361,-84.3877426",transit_station,30357
+596,10th St NW@Atlantic Dr NW,"33.7841361,-84.3877426",transit_station,30357
+597,W Peachtree St @ 12th St,"33.7841361,-84.3877426",transit_station,30357
+598,Spring St @ 12th St,"33.7841361,-84.3877426",transit_station,30357
+599,West Peachtree St + 13th St,"33.7841361,-84.3877426",transit_station,30357
+600,Briarcliff Rd NE @ Johnson Rd NE,"33.8053664,-84.3367294",transit_station,30333
+601,Briarcliff Rd NE @ Clifton Rd NE,"33.8053664,-84.3367294",transit_station,30333
+602,Briarcliff Rd NE@Briar Vista Ter NE,"33.8053664,-84.3367294",transit_station,30333
+603,LaVista Rd NE @ Bernadette Ln NE,"33.8053664,-84.3367294",transit_station,30333
+604,Briarcliff Rd NE @ Johnson Rd NE,"33.8053664,-84.3367294",transit_station,30333
+605,Briarcliff Rd NE @ Clifton Rd NE,"33.8053664,-84.3367294",transit_station,30333
+606,Clifton Rd@Briarcliff Rd,"33.8053664,-84.3367294",transit_station,30333
+607,Clifton Rd NE @ Briarcliff Rd NE,"33.8053664,-84.3367294",transit_station,30333
+608,Johnson Rd NE @ Briarcliff Rd NE,"33.8053664,-84.3367294",transit_station,30333
+609,Clifton Rd NE @ Biltmore Dr NE,"33.8053664,-84.3367294",transit_station,30333
+610,Briarcliff Rd NE@Shepherds Ln NE,"33.8053664,-84.3367294",transit_station,30333
+611,Briarcliff Rd@Shepherds Ln,"33.8053664,-84.3367294",transit_station,30333
+612,Johnson Rd NE@Helen Dr NE,"33.8053664,-84.3367294",transit_station,30333
+613,Clifton Rd NE @ Old Briarcliff Way,"33.8053664,-84.3367294",transit_station,30333
+614,Clifton Rd@Old Briarcliff Way,"33.8053664,-84.3367294",transit_station,30333
+615,Johnson Rd NE@Noble Dr NE,"33.8053664,-84.3367294",transit_station,30333
+616,Johnson Rd NE@Noble Dr,"33.8053664,-84.3367294",transit_station,30333
+617,Briarcliff Rd NE@Briar Vista Ter NE,"33.8053664,-84.3367294",transit_station,30333
+618,Briarcliff Rd NE@Briar Vista Ter NE,"33.8053664,-84.3367294",transit_station,30333
+619,Johnson Rd NE@Pasadena Ave,"33.8053664,-84.3367294",transit_station,30333
+620,Peachtree Station,"33.7910495,-84.400194",transit_station,30363
+621,Arts Center Transit Station,"33.7910495,-84.400194",transit_station,30363
+622,17th St @ Village St,"33.7910495,-84.400194",transit_station,30363
+623,17th St @ Market St,"33.7910495,-84.400194",transit_station,30363
+624,17th St @ Bishop St,"33.7910495,-84.400194",transit_station,30363
+625,17th St NW @ State St NW,"33.7910495,-84.400194",transit_station,30363
+626,17th St NW @ State St NW,"33.7910495,-84.400194",transit_station,30363
+627,17th St NW @ Village St,"33.7910495,-84.400194",transit_station,30363
+628,17th St NW @ Village St,"33.7910495,-84.400194",transit_station,30363
+629,17th St NW @ District Ave,"33.7910495,-84.400194",transit_station,30363
+630,17th St NW @ Bishop St NW,"33.7910495,-84.400194",transit_station,30363
+631,17th St NW @ Market St NW,"33.7910495,-84.400194",transit_station,30363
+632,17th St NW @ Bishop St NW,"33.7910495,-84.400194",transit_station,30363
+633,17th St @ Market St,"33.7910495,-84.400194",transit_station,30363
+634,14th St @ Snyder St,"33.7910495,-84.400194",transit_station,30363
+635,14th St @ Snyder St,"33.7910495,-84.400194",transit_station,30363
+636,14th St @ Atlantic Dr,"33.7910495,-84.400194",transit_station,30363
+637,14th St @ Atlantic Dr,"33.7910495,-84.400194",transit_station,30363
+638,14th St @ McMillan St,"33.7910495,-84.400194",transit_station,30363
+639,14th St @ McMillan St,"33.7910495,-84.400194",transit_station,30363
+640,McCallie Blvd NW@Perry Blvd NW,"33.7946333,-84.44877199999999",transit_station,30318
+641,Perry Blvd NW @ Odessa Dr,"33.7946333,-84.44877199999999",transit_station,30318
+642,Perry Blvd NW @ Odessa Dr NW,"33.7946333,-84.44877199999999",transit_station,30318
+643,Perry Blvd @ w Highlands Blvd NW,"33.7946333,-84.44877199999999",transit_station,30318
+644,Perry Blvd NW @ w Highlands Blvd NW,"33.7946333,-84.44877199999999",transit_station,30318
+645,Perry Blvd NW @ McCallie Blvd NW,"33.7946333,-84.44877199999999",transit_station,30318
+646,McCallie Blvd NW@Perry Blvd NW,"33.7946333,-84.44877199999999",transit_station,30318
+647,Perry Blvd NW @ McCallie Blvd NW,"33.7946333,-84.44877199999999",transit_station,30318
+648,Perry Blvd@1600,"33.7946333,-84.44877199999999",transit_station,30318
+649,Perry Blvd@1600,"33.7946333,-84.44877199999999",transit_station,30318
+650,McCallie Blvd NW @ Abner Pl NW,"33.7946333,-84.44877199999999",transit_station,30318
+651,McCallie Blvd NW@Abner Pl NW,"33.7946333,-84.44877199999999",transit_station,30318
+652,Ajax Dr NW@McCallie Blvd NW,"33.7946333,-84.44877199999999",transit_station,30318
+653,Ajax Dr@2208,"33.7946333,-84.44877199999999",transit_station,30318
+654,Perry Blvd NW @ Mary George Ave NW,"33.7946333,-84.44877199999999",transit_station,30318
+655,Ajax Dr NW @ 2223,"33.7946333,-84.44877199999999",transit_station,30318
+656,Perry Blvd NW @ Mary George Ave NW,"33.7946333,-84.44877199999999",transit_station,30318
+657,Mary George Ave NW @ Abner Pl NW,"33.7946333,-84.44877199999999",transit_station,30318
+658,Perry Blvd NW @ Mary George Ave NW,"33.7946333,-84.44877199999999",transit_station,30318
+659,Perry Blvd NW @ Johnson Rd NW,"33.7946333,-84.44877199999999",transit_station,30318
+660,Clifton Rd NE @ 1599,"33.7980995,-84.3259367",transit_station,30322
+661,Clifton Rd NE @ 1615,"33.7980995,-84.3259367",transit_station,30322
+662,Clifton Rd @ Houston Mill Rd,"33.7980995,-84.3259367",transit_station,30322
+663,Clifton Rd NE @ Houston Mill Rd NE,"33.7980995,-84.3259367",transit_station,30322
+664,Michael St @ Houston Mill Rd,"33.7980995,-84.3259367",transit_station,30322
+665,CDC,"33.7980995,-84.3259367",transit_station,30322
+666,Clifton Rd NE @ Turner Ln,"33.7980995,-84.3259367",transit_station,30322
+667,Clifton Rd @ Clifton Way,"33.7980995,-84.3259367",transit_station,30322
+668,Clifton Rd @ Gatewood Rd,"33.7980995,-84.3259367",transit_station,30322
+669,Clifton Rd @ Gatewood,"33.7980995,-84.3259367",transit_station,30322
+670,Clifton Rd NE @ Turner Ln (CDC Pkwy),"33.7980995,-84.3259367",transit_station,30322
+671,Clifton Rd @ CDC Pkwy,"33.7980995,-84.3259367",transit_station,30322
+672,Clifton Rd NE @ 1749,"33.7980995,-84.3259367",transit_station,30322
+673,Clifton Rd NE @ Haygood Dr NE,"33.7980995,-84.3259367",transit_station,30322
+674,Clifton Rd @ Eagle Row,"33.7980995,-84.3259367",transit_station,30322
+675,Clifton Rd @ 1762,"33.7980995,-84.3259367",transit_station,30322
+676,Woodruff Circle Emory,"33.7980995,-84.3259367",transit_station,30322
+677,Clifton Rd @ Upper Gate Dr,"33.7980995,-84.3259367",transit_station,30322
+678,Clifton Rd NE @ Upper Gate Dr NE,"33.7980995,-84.3259367",transit_station,30322
+679,Clifton Rd@Old Briarcliff Way,"33.7980995,-84.3259367",transit_station,30322
+680,Peachtree Station,"33.7971137,-84.3804888",transit_station,30309
+681,Arts Center Transit Station,"33.7971137,-84.3804888",transit_station,30309
+682,Peachtree St NE@17th St NE,"33.7971137,-84.3804888",transit_station,30309
+683,Piedmont Ave NE@Westminster Dr NE,"33.7971137,-84.3804888",transit_station,30309
+684,Peachtree St NE @ 16th St NE,"33.7971137,-84.3804888",transit_station,30309
+685,Piedmont Ave NE@Avery Dr NE,"33.7971137,-84.3804888",transit_station,30309
+686,Monroe Dr NE@1705,"33.7971137,-84.3804888",transit_station,30309
+687,Monroe Dr NE@Piedmont Way NE,"33.7971137,-84.3804888",transit_station,30309
+688,15th St NE @ Peachtree St NE,"33.7971137,-84.3804888",transit_station,30309
+689,Piedmont Ave NE@15th St NE,"33.7971137,-84.3804888",transit_station,30309
+690,Peachtree St NW@Peachtree Cir NE,"33.7971137,-84.3804888",transit_station,30309
+691,Peachtree St NE @ Peachtree Cir NE,"33.7971137,-84.3804888",transit_station,30309
+692,Peachtree St NE@w Peachtree St NW,"33.7971137,-84.3804888",transit_station,30309
+693,Peachtree St NE @ Peachtree St NW,"33.7971137,-84.3804888",transit_station,30309
+694,Piedmont Ave NE@Monroe Dr NE,"33.7971137,-84.3804888",transit_station,30309
+695,Peachtree St NE@17th St NE,"33.7971137,-84.3804888",transit_station,30309
+696,Peachtree St NE@17th St NE,"33.7971137,-84.3804888",transit_station,30309
+697,17th St NE @ Peachtree St NE,"33.7971137,-84.3804888",transit_station,30309
+698,Peachtree St NE@Spring St NW,"33.7971137,-84.3804888",transit_station,30309
+699,Piedmont Ave NE@the Prado NE,"33.7971137,-84.3804888",transit_station,30309
